@@ -11,5 +11,5 @@ Creating new key -
 Exporting public Key -
 
 - In the same end to end encryption, account setting location > OpenPGP Key Manager
-- selelct the mail for which you wanted to export key > file (for mac) > Export the public key as file or via email
+- selelct the mail for which you wanted to export key > file > Export the public key as file or via email
 - Now you can provide your key for someone who wants to send you encrypted emails
