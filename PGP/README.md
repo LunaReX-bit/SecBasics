@@ -13,3 +13,10 @@ Exporting public Key -
 - In the same end to end encryption, account setting location > OpenPGP Key Manager
 - selelct the mail for which you wanted to export key > file > Export the public key as file or via email
 - Now you can provide your key for someone who wants to send you encrypted emails
+
+Importing Public Key - 
+
+- click on OpenPGP Key Manager as guided above in settings.
+- Assuming you have recepient's PGP key and copied to clipboard
+- Go to Edit > Import keys from clipboard.
+- Once imported you should see the receiver's email associated with their provided key
