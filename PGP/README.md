@@ -1,3 +1,5 @@
+# How to send email using PGP
+
 Did someone provided you their public PGP key to send them secure email? or
 
 Do you have their PGP public key from a website and you need to send them an email securely?
