@@ -4,6 +4,6 @@ Example Application - Thunderbird, supports on mulitple OS (Win, Mac, Linux)
 
 Creating new key -
 
-Go to Setting > Privacy and security > Account settings in Email end to end encryption
-In account settings > End to end encryption > Add key > Create new openpgp key if you don't have one
-set expiry and key size, then click generate key and confirm
+- Go to Setting > Privacy and security > Account settings in Email end to end encryption
+- In account settings > End to end encryption > Add key > Create new openpgp key if you don't have one
+- Set expiry and key size, then click generate key and confirm
