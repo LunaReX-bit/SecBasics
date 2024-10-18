@@ -1,0 +1,11 @@
+# End-to-end encryption
+End-to-end encryption means (in theory) that only you and the person you are communicating with can read messages. However, not all encryption is created equal. The quality of the encryption is determined by the encryption protocol used and how it's implemented at the software level.
+
+#Metadata Protection
+Metadata protection means that the message metadata (the data about the data) is obscured. Even if the message itself is encrypted, metadata can reveal who is communicating with whom, when, how often, the sizes of any files that may have been transferred, and so on. Metadata exposure is a major concern.
+
+#Peer to Peer
+Peer-to-peer means that the messages do not pass through a centralized server.
+
+#Tor
+Tor is an anonymity network. Some applications route your messages through Tor by default.
